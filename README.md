@@ -21,3 +21,7 @@ Ao dimensionar a tela, o site se ajusta para fornecer a melhor experiência de v
 - **Media Queries:** utilizadas no arquivo CSS para definir estilos específicos para diferentes tamanhos de tela.
 - **Layout flexível:**  o uso de flexbox no CSS permite que os elementos do site sejam flexíveis e se ajustem automaticamente ao tamanho da tela..
 - **Imagens responsivas:**  as imagens do site são configuradas para serem redimensionadas e ajustadas automaticamente de acordo com o tamanho da tela..
+
+## Deploy
+
+https://acai-do-valmario.netlify.app/
