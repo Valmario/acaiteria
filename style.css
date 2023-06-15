@@ -158,16 +158,6 @@ main {
   position: relative;
 }
 
-.home-img img {
-  display: block;
-  max-width: 100%;
-  opacity: 0.5; /* Ajuste o valor conforme necessário */
-  position: absolute;
-  top: 0;
-  left: 0;
-  z-index: -1;
-}
-
 #sobre {
   padding: 50px 0;
 }
